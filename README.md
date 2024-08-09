@@ -1,1 +1,1 @@
-# End-to-End-Warehouse-Apparel-Detector-YOLOV5
+# Owner-avatar-YOLO-v8-Object-Detection_Computer_Vision
